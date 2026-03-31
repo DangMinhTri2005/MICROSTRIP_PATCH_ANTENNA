@@ -1,0 +1,2 @@
+- File mô phỏng trên CST (đuôi .cst): Chỉ cần máy có phần mềm CST, sau đó mở file và chạy sẽ cho ra kết quả.
+- Folder nén chứa file vẽ pcb anten vi dải: Giải nén và mở file để có thể xem, với yêu cầu máy có phầm mềm KiCad (vì pcb được vẽ trên phần mềm kicad).
